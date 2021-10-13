@@ -1,0 +1,10 @@
+El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces. De entre todos los bucles, el FOR se suele utilizar cuando sabemos seguro el número de veces que queremos que se ejecute
+
+El primer operador lógico que veremos es el operador “Y” (“AND”). Está escrito con dos símbolos (&&). 
+Esto evaluará ambas expresiones y devolverá verdadero si AMBAS expresiones son true. Si uno (o ambos) de ellos es falso, este operador devolverá false
+
+El siguiente es el operador “Ó” (“OR”). Está escrito con dos barras verticales (||). Determinará si una de las expresiones es true. 
+Devolverá true si una (o ambas) de las expresiones es true. Devolverá false si AMBAS expresiones son false
+
+El último operador lógico es el operador “NOT” (“NO”). Está escrito como un solo signo de exclamación (!). Vimos este operador antes al determinar la igualdad (!==). 
+Como antes, el operador NOT devolverá el valor booleano opuesto de lo que se le pasa
