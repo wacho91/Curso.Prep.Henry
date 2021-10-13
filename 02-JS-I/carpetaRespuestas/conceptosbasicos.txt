@@ -1,0 +1,13 @@
+Variables:Una variable es un contenedor que contiene informacion ala que puedes acceder. Puedes pensar en una variable como una caja que contiene items, una caja que puedes abrir y cerrar y a la que puedes añadir cosas. en algunos casos, la memoria humana y la memoria de un dispositivo electornico sea un celular o tablet guardamos en espacios nuestros recuerdos e informacion. Por ejemplo viendo un partido de futbol, tenemos que guardar continuamente el resultado del partido.
+
+string: Un string se usa para manipular cadena de caracteres, en JavaScript todo texto encerrado entre comillas sea dobles o simple, se interpreta como una cadena.
+
+Funciones: Una función es un conjunto de líneas de codigo que realizan una tarea especifica y pueden retornar algo
+
+Argumentos o parametros: Es un elemento que se le puede puede mandar a la funcion para que trabaje con el, en pocas palabras un argumento es un valor que se le envia a la funcion 
+
+Return: es lo que obtendremos cuando la ejecucion de la funcion termine
+
+Condicional if:Un if en programacion se encarga de evaluar una expresion es decir si se cumple la condicion o pasa la prueba de la condicion, ejecutara el bloque de instrucciones expresadas en la funcion. un ejemplo si el dia esta lluvioso entonces debo llevar un paraguas, como se puede apreciar si la condicion dia lluvioso se cumple entonces el bloque de codigo que debo llevar un paraguas se cumple
+
+Valores booleanos (true, false): En este caso la condicion de los bolean se puede implementar con la condicional if, es decir si la condicion cumple con la validacion su resultado es true o verdadero en caso que la condicion no cumpla con la validacion su resultado va ser falso por ejemplo. si un joven es mayor 18 años, entonces es mayor de edad la condicion aqui cumple con la validacion su respuesta es verdadera o True en caso que el joven es menor de 18 años, entonces no es mayor de edad, aqui vemos que la condicion no cumple con la validacion su resultado va a retornar falso o False 
