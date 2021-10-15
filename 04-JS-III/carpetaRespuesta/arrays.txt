@@ -1,0 +1,4 @@
+En los lenguajes de programación existen estructuras de datos especiales que nos sirven para guardar información más compleja que simples variables. Una estructura típica en todos los lenguajes es el Array,
+que es como una variable donde podemos introducir varios valores, en lugar de solamente uno como ocurre con la variables normales.
+Los arrays nos permiten guardar varias variables y acceder a ellas de manera independiente, 
+es como tener una variable con distintos compartimentos donde podemos introducir datos distintos.
